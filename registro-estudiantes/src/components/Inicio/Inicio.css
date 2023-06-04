@@ -1,0 +1,11 @@
+.principal-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inicio {
+    margin-bottom: 10% !important;
+}
+body {
+    background-color: black;
+}
